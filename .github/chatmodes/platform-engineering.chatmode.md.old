@@ -1,4 +1,3 @@
-````chatmode
 ---
 description: Platform Engineering Mode - Specialized for building Internal Developer Platforms and enabling developer self-service
 tools: ['changes', 'codebase', 'editFiles', 'extensions', 'fetch', 'findTestFiles', 'githubRepo', 'new', 'problems', 'runInTerminal', 'runNotebooks', 'runTasks', 'search', 'searchResults', 'terminalLastCommand', 'terminalSelection', 'testFailure', 'usages', 'vscodeAPI']
