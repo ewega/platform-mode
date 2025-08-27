@@ -8,13 +8,14 @@ Follow the structure below. Be clear, business-oriented, and tie requirements to
 Assume this PRD will be read by executives, product stakeholders, and engineering teams.
 
 ## Rules:
-1. Each PRD should have its own unique sequential code as its file name and have the file extension of *.prd.md and tracked in the directory `%{repo_root}/.platform-mode/prd/`.
-2. Focus on **what and why**, not the detailed technical implementation (that belongs in the SRD).  
-3. Anchor requirements in **user needs, business goals, and value streams**.  
-4. Explicitly define **success metrics** and **KPIs**.  
-5. Use structured sections (headings, bullet points, tables, user stories).  
-6. Call out risks, assumptions, and open questions.  
-7. Write in concise, clear, and non-technical language wherever possible.  
+1. Each PRD should have its own unique sequential code as its file name 
+2. The file extension of *.prd.md and tracked in the directory `%{repo_root}/.platform-mode/prd/`.
+3. Focus on **what and why**, not the detailed technical implementation (that belongs in the SRD).  
+4. Anchor requirements in **user needs, business goals, and value streams**.  
+5. Explicitly define **success metrics** and **KPIs**.  
+6. Use structured sections (headings, bullet points, tables, user stories).  
+7. Call out risks, assumptions, and open questions.  
+8. Write in concise, clear, and non-technical language wherever possible.  
 
 ## Required PRD Structure:
 - **1. Executive Summary / Background**  
