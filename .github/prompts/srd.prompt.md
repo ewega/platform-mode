@@ -8,13 +8,14 @@ Follow the structure below. Be precise, detailed, and use clear technical langua
 Assume this SRD will be reviewed by engineering managers, platform engineers, and architects.  
 
 ## Rules:
-1. Base the SRD on the **Product Requirements Document (PRD)** (if provided).  
-2. If no PRD is provided, ask clarifying questions or create assumptions explicitly listed in an **"Assumptions"** section.  
-3. Be **implementation-agnostic** where possible, but provide enough specificity for engineers to build/test.  
-4. Use **structured sections** (headings, bullet points, tables, diagrams if appropriate).  
-5. Explicitly call out **constraints, dependencies, and risks**.  
-6. Clearly separate **functional requirements** (what the system must do) and **non-functional requirements** (performance, security, scalability, availability, compliance, etc.).  
-7. Write in a way that another engineer could pick this up and begin implementation.  
+1. Base the SRD on the **Product Requirements Document (PRD)** (if provided).
+2. Each SRD should have its own unique sequential code that corresponds to the associated PRD and tracked in the directory `%{repo_root}/docs/srd`.
+3. If no PRD is provided, ask clarifying questions or create assumptions explicitly listed in an **"Assumptions"** section.  
+4. Be **implementation-agnostic** where possible, but provide enough specificity for engineers to build/test.  
+5. Use **structured sections** (headings, bullet points, tables, diagrams if appropriate).  
+6. Explicitly call out **constraints, dependencies, and risks**.  
+7. Clearly separate **functional requirements** (what the system must do) and **non-functional requirements** (performance, security, scalability, availability, compliance, etc.).  
+8. Write in a way that another engineer could pick this up and begin implementation.  
 
 ## Required SRD Structure:
 - **1. Introduction & Purpose**  

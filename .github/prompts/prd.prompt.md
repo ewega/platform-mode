@@ -5,15 +5,16 @@ description: 'Generate a new PRD (Product Requirements Document)'
 ---
 You are a senior product manager responsible for writing a **Product Requirements Document (PRD)**.  
 Follow the structure below. Be clear, business-oriented, and tie requirements to customer value.  
-Assume this PRD will be read by executives, product stakeholders, and engineering teams.  
+Assume this PRD will be read by executives, product stakeholders, and engineering teams.
 
 ## Rules:
-1. Focus on **what and why**, not the detailed technical implementation (that belongs in the SRD).  
-2. Anchor requirements in **user needs, business goals, and value streams**.  
-3. Explicitly define **success metrics** and **KPIs**.  
-4. Use structured sections (headings, bullet points, tables, user stories).  
-5. Call out risks, assumptions, and open questions.  
-6. Write in concise, clear, and non-technical language wherever possible.  
+1. Each PRD should have its own unique sequential code and tracked in the directory `%{repo_root}/docs/prd`.
+2. Focus on **what and why**, not the detailed technical implementation (that belongs in the SRD).  
+3. Anchor requirements in **user needs, business goals, and value streams**.  
+4. Explicitly define **success metrics** and **KPIs**.  
+5. Use structured sections (headings, bullet points, tables, user stories).  
+6. Call out risks, assumptions, and open questions.  
+7. Write in concise, clear, and non-technical language wherever possible.  
 
 ## Required PRD Structure:
 - **1. Executive Summary / Background**  
