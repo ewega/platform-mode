@@ -1,6 +1,6 @@
 # Agent Context and Guidance File
 
-This file provides guidance to Coding Agents/Assitants when working with code in this repository.
+This file provides guidance to Coding Agents/Assitants when working with code in this repository.  It is meant as a univeral way to help and guide AI/LLM Agents based on [Agents.md](https://agents.md).
 
 ## Repository Overview
 
