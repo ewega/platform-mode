@@ -4,7 +4,7 @@
 
 Platform Mode is an advanced, spec-driven development toolkit that transforms how platform engineering teams build and operate Internal Developer Platforms (IDPs). By combining specialized AI agents, comprehensive workflow automation, and systematic quality gates, teams can deliver infrastructure and developer experiences with unprecedented speed and consistency.
 
-## 🎯 What is Platform Mode?
+## What is Platform Mode?
 
 Platform Mode implements a complete **spec-driven development methodology** specifically designed for platform engineering workflows. Unlike traditional approaches that rely on manual processes and tribal knowledge, Platform Mode provides:
 
@@ -14,7 +14,7 @@ Platform Mode implements a complete **spec-driven development methodology** spec
 - **Systematic knowledge capture** and continuous improvement
 - **Azure-native integration** optimized for modern cloud architectures
 
-## 🚀 Why Platform Mode?
+## Why Platform Mode?
 
 Platform engineering teams face unique challenges: complex multi-service architectures, diverse stakeholder requirements, operational complexity, and the need for self-service developer experiences. Platform Mode addresses these challenges by:
 
@@ -29,7 +29,7 @@ Platform engineering teams face unique challenges: complex multi-service archite
 - **Reduced friction** in accessing platform services and resources
 - **Clear abstractions** that hide infrastructure complexity while maintaining flexibility
 
-## 🏗️ How Platform Mode Works in VS Code with GitHub Copilot
+## How Platform Mode Works in VS Code with GitHub Copilot
 
 ### Custom Chat Modes (AI Personas)
 Switch between specialized AI agents optimized for different platform engineering tasks:
@@ -89,7 +89,7 @@ Organizational standards that automatically apply to relevant contexts:
 - **Automatic enforcement** of coding standards and best practices
 - **Consistent quality** across team members and projects
 
-## 🎨 The Platform Engineering UI Layer Revolution
+## The Platform Engineering UI Layer Revolution
 
 Platform Mode represents the future of platform engineering interfaces - moving beyond traditional CLI tools and web portals to **conversational, AI-enhanced workflows** integrated directly into development environments.
 
@@ -138,7 +138,7 @@ Platform Mode enables platform engineers to:
 └── workflows/         # Orchestrated command sequences
 ```
 
-## 🎯 Getting Started
+## Getting Started
 
 ### 1. Choose Your AI Agent
 Select the appropriate persona for your current work:
@@ -164,7 +164,7 @@ Platform Mode integrates with Azure-based reference architectures (like [Humanit
 - **Security integration** with Azure Active Directory and Key Vault
 - **Monitoring and observability** with Azure Monitor and Application Insights
 
-## 🎯 Key Benefits
+## Key Benefits
 
 ### For Platform Teams
 - **30-40% reduction in rework** through better specifications
