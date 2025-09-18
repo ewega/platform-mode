@@ -1,0 +1,11 @@
+name: platform-mode
+version: 1.0.0
+description: Platform Mode is an advanced, spec-driven development toolkit that transforms how platform engineering teams build and operate Internal Developer Platforms (IDPs).
+author: raykao
+
+dependencies:
+  mcp:
+    - azure/azure-mcp
+
+scripts:
+  discovery-codex: "RUST_LOG=debug codex --skip-git-repo-check discovery.prompt.md"
