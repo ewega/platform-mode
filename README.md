@@ -187,3 +187,11 @@ Platform Mode represents a paradigm shift toward **AI-enhanced, conversation-dri
 This is platform engineering designed for the age of AI - where conversations with intelligent agents replace complex UIs, where context-aware automation replaces manual processes, and where systematic learning replaces tribal knowledge.
 
 **Welcome to the future of platform engineering. Welcome to Platform Mode.**
+
+## A note about MCP Servers
+
+As of Sept 16th 2025, GitHub now has an official MCP Registry where you can find and use available MCP Servers both for local install/running and remotely hosted MCP servers as well.
+
+See blog post [here](https://github.blog/ai-and-ml/github-copilot/meet-the-github-mcp-registry-the-fastest-way-to-discover-mcp-servers/)
+
+We will be using this registry to define a minimal set of MCP servers for use in this project and ensure that they are listed, you may modify according to your needs but note that any updates and syncing from upstream will overwrite your config changes in the future.  The list of MCP servers required will be stored in [./vscode/mcp.json](/.vscode/mcp.json)
