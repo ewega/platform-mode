@@ -1,5 +1,7 @@
 # Platform Mode
 
+[![Install with APM](https://img.shields.io/badge/📦_Install_with-APM-blue?style=flat-square)](https://github.com/danielmeppiel/apm#-apm-packages) 
+
 **The Future of AI-Enhanced Platform Engineering**
 
 Platform Mode is an advanced, spec-driven development toolkit that transforms how platform engineering teams build and operate Internal Developer Platforms (IDPs). By combining specialized AI agents, comprehensive workflow automation, and systematic quality gates, teams can deliver infrastructure and developer experiences with unprecedented speed and consistency.
