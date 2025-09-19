@@ -1,0 +1,25 @@
+{
+	"servers": {
+		"github/github-mcp-server": {
+			"type": "http",
+			"url": "https://api.githubcopilot.com/mcp/",
+			"gallery": "https://api.mcp.github.com/v0/servers/ab12cd34-5678-90ef-1234-567890abcdef",
+			"version": "0.13.0"
+		},
+		"upstash/context7": {
+			"type": "http",
+			"url": "https://mcp.context7.com/mcp",
+			"gallery": "https://api.mcp.github.com/v0/servers/dcec7705-b81b-4e0f-8615-8032604be7ad",
+			"version": "1.0.0"
+		},
+		"AKS MCP": {
+			"command": "~/.vs-kubernetes/tools/aks-mcp/v0.0.6/aks-mcp",
+			"args": [
+				"--transport",
+				"stdio"
+			],
+			"type": "stdio"
+		}
+	},
+	"inputs": []
+}
