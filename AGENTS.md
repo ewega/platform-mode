@@ -1,21 +1,25 @@
 # Agent Context and Guidance File
 
-This file provides guidance to Coding Agents/Assitants when working with code in this repository.  It is meant as a univeral way to help and guide AI/LLM Agents based on [Agents.md](https://agents.md).
+This file provides guidance to Coding Agents/Assistants when working with code in this repository.  It is meant as a universal way to help and guide AI/LLM Agents based on [Agents.md](https://agents.md).
+
+- **Audience**: Platform Engineers, SREs, Security/QA Engineers, and AI Assistants operating on this repo.
+- **Scope**: Azure-centric, cloud-native, spec-driven development for Internal Developer Platforms (IDPs).
+- **Golden rule**: Specification first. **No production-impacting change** occurs without human approval.
 
 ## Repository Overview
 
-This is an advanced Platform Engineering toolkit that implements comprehensive **spec-driven development** for building Internal Developer Platforms (IDPs). The repository provides a complete workflow system with specialized agent personas, automated quality gates, and continuous improvement capabilities for Azure-based cloud-native environments.
+This is an advanced Platform Engineering toolkit that implements comprehensive **spec-driven development** for building Internal Developer Platforms (IDPs). The repository provides a complete workflow system with specialized agent personas, automated quality gates, and continuous improvement capabilities for **Azure** environments.
 
 ## Enhanced Spec-Driven Development System
 
 This repository implements a complete spec-driven development methodology that transforms how platform engineering teams deliver value:
 
 ### Core Philosophy
-- **Specification First**: All work begins with clear, validated specifications
-- **AI-Enhanced Workflows**: Specialized AI agents guide each phase of development  
-- **Quality by Design**: Automated quality gates ensure consistent excellence
-- **Continuous Learning**: Systematic capture and application of lessons learned
-- **Data-Driven Optimization**: Metrics and analytics drive continuous improvement
+- **Specification First**: All work begins with clear, validated specifications.
+- **AI-Enhanced Workflows**: Specialized AI agents guide each phase of development.
+- **Quality by Design**: Automated quality gates ensure consistent excellence.
+- **Continuous Learning**: Systematic capture and application of lessons learned.
+- **Data-Driven Optimization**: Metrics and analytics drive continuous improvement.
 
 ## Architecture & Directory Structure
 
